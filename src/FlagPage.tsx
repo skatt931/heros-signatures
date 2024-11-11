@@ -22,7 +22,7 @@ const FlagPage = () => {
             <p>{t("flagPage.description")}</p>
             <div className="grid grid-cols-1 gap-10 md:grid-cols-4">
               {PEOPLE.map((signature) => (
-                <Link to={`/${lang}/person/${signature.id}`} key={signature.id}>
+                <Link to={`/${lang}/${signature.id}`} key={signature.id}>
                   <Avatar
                     className="justify-center"
                     name={t(`person${signature.id}.name`)}

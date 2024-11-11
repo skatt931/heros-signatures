@@ -45,7 +45,7 @@ function App() {
           }
         />
         <Route
-          path="/:lang/person/:id"
+          path="/:lang/:id"
           element={
             <LanguageWrapper>
               <Header />

@@ -5,14 +5,51 @@
   },
   "title": "Podpisy na vlajce",
   "person0": {
-    "name": "Taras Ševčenko",
-    "bio": "Hrdinský prapor Azovu od Tarase Ševčenka v češtině...",
-    "shortInfo": "Hrdinský prapor Azovu od Tarase Ševčenka v češtině..."
+    "name": "Andrii 'Spider' Ihnatiuk ",
+    "bio": "Vedoucí oddělení humanitární podpory 12. brigády speciálních sil „Azov“. Je nositelem Řádu za odvahu III. třídy a podplukovníkem. V roce 2014 osvobodil Mariupol a o osm let později ho se svými spolubojovníky opět bránil. Horunžij opustil Azovstal 20. května. Rok strávil v ruském zajetí: nejprve v Olenivce, poté v doněckém vazebním středisku.",
+    "shortInfo": "Dobře sloužíme své zemi. A budeme v tom pokračovat déle než deset nebo dvacet let."
   },
   "person1": {
-    "name": "Georgij Kirpa",
-    "bio": "Celý životopis Osoby B v češtině...",
-    "shortInfo": "Stručný životopis Osoby B v češtině..."
+    "name": "Ilia “Smurf” Iliashenko",
+    "bio": "Ochránce Azovstalu a rodného Mariupolu. 10 měsíců v zajetí. Veterán ve výslužbě. Příslušník 23. námořního bezpečnostního oddílu Státní pohraniční služby. Při zásahu raketou do jeho auta utrpěl otřes mozku, byl v závodě Azovstal a strávil 10 měsíců v ruském zajetí, kde byl denně vystaven týrání, mučení paralyzérem a vypalování tetování a obočí.",
+    "shortInfo": "Každá pomoc, kterou poskytnete, je malým úspěchem v celkovém úsilí o vítězství. Opravdu chci mír, abychom mohli získat peníze na hřiště, ne na zbraně."
   },
-  "moreInfo": "Bohdan Frojka"
+  "person2": {
+    "name": "Asan Dilaverovich “Hasan” Isenadzhiev",
+    "bio": "Pochází z města Heničesk v Chersonské oblasti. Vzděláním je zdravotnický záchranář. V roce 2016 absolvoval Lékařskou fakultu v Geničesku. Účastník blokády Krymu v roce 2015. Účastník ATO. Sloužil v Berdianském pohraničním oddílu a Kramatorském pohraničním oddílu. V roce 18 byl převelen do 23. oddílu námořní stráže Státní pohraniční služby Ukrajiny v Mariupolu. Po odchodu z SBGSU se okamžitě připojil k Azovu. Podílel se na obraně Mariupolu.",
+    "shortInfo": "Zažil jsem tolik bolesti, ale nikdy se nezlomím."
+  },
+  "person3": {
+    "name": "Viktor “Leleka” Lakhno",
+    "bio": "Jeden ze 72 účastníků akce „Letecký průlom do Azovstalu“. Bývalý válečný zajatec. Účastník ATO v letech 2016-2018. Je veřejně činnou osobou. Viktor Lachno se setkal s prvními dny plnohodnotné války v Berdiansku, a když do města vstoupili ruští okupanti, stal se partyzánem ve své rodné vesnici v Záporožské oblasti. Po útěku před okupanty se zapojil do operace na odblokování Mariupolu. Byl jedním ze tří vojáků, kteří vletěli ve vrtulníku do centra města obklíčeného nepřáteli. Přestože byl zraněn, pokračoval v plnění bojového úkolu a spolu se svými obránci z Azovstalu se dostal do ruského zajetí. Pětadvacetiletý mladík strávil v zajetí 13 měsíců. V červnu 2022 byl vyměněn - šlo o poslední výměnu válečných zajatců z Azovstalu. A znovu se vrátil do války.",
+    "shortInfo": "Uvědomovali jsme si, co je Rusko zač, vzpomínali jsme na události „kotlů“ a uvědomovali jsme si, že to nebude tak, jak nám bylo slibováno."
+  },
+  "person4": {
+    "name": "Anton “Malibu” Kuznetsov",
+    "bio": "Do Azova přišel v roce 2019 a podepsal tříletou smlouvu. Kuzněcov zpočátku sloužil jako střelec ve druhém družstvu druhé čety třetí roty druhého praporu. Dne 20. května 2022 na rozkaz velitele pluku Azov „Redis“ (Denis Prokopenko) „Malibu“ opustil území závodu Azovstal a vzdal se.",
+    "shortInfo": ""
+  },
+  "person5": {
+    "name": "Yevhen “Chudik” Chudnetsov",
+    "bio": "Hlavní lékař 12. brigády. Dvakrát byl v zajetí. Jevhen „Čudik“ Čudněcov se narodil v Makijevce. Starší seržant brigády Azov, obránce Mariupolu, hrdina Azovstalu. Celkem strávil v ruském zajetí asi čtyři roky. Propuštěn byl 6. května 2023. Nyní je zpět na frontě.",
+    "shortInfo": "V Rusku se nic nezmění, i kdyby Navalnyj nahradil Putina."
+  },
+  "person6": {
+    "name": "Valeria (Karpylenko) Subotina “Nava”",
+    "bio": "Valerija je básnířka původem z Mariupolu, v roce 2015 nastoupila do tiskové služby pluku Azov a později sloužila jako tisková důstojnice v doněckém pohraničním oddíle. Valeria Karpylenko (Subotina) byla zajata během ústupu ukrajinské armády z Azovstalu 16. května 2022 a vrátila se na Ukrajinu v rámci velké výměny zajatců.",
+    "shortInfo": "Příběhů, kdy zde umírají muži nebo dívky, vojáci a rodiny, je nyní mnoho. A pak za pár dní zemře někdo další. Jako by šli jeden za druhým."
+  },
+  "person7": {
+    "name": "Dmytro “Diplomat” Andriushchenko",
+    "bio": " Od roku 2014 je ve válce. Dmytro Andriuščenko pochází z Mariupolu a na frontě je od roku 2014 jako příslušník pluku Azov. „Diplomat“ byl ze zajetí propuštěn v září 2022. ",
+    "shortInfo": "Jsme štítem Evropy. Nemají právo na nás zapomínat. Celý svět se musí spojit, aby potrestal teroristy."
+  },
+  "person8": {
+    "name": "Sviatoslav Siryi “The Brave”",
+    "bio": "V letech 2015 a 2016 odcestoval s Národním sborem do Čongaru, aby se zúčastnil blokády Krymu. V roce 2020 podepsal smlouvu a stal se příslušníkem Azovského pluku. Obránce Mariupolu a závodu Azovstal strávil rok v ruském zajetí a neváhal se vrátit, aby sloužil u dělostřelectva brigády Azov. Dnes je zástupcem velitele brigádní dělostřelecké skupiny 12. brigády speciálních sil Azov Národní gardy Ukrajiny.",
+    "shortInfo": "Přežili jsme a většina z nás zůstala po Mariupolu téměř nedotčena. Nyní jsme svobodní. A je naší svatou povinností (bojovat) vůči našim padlým kamarádům a dalším 700 chlapům, kteří jsou v ruském zajetí."
+  },
+  "moreInfo": "Bohdan Frojka",
+  "prevBtn": "Předchozí",
+  "nextBtn": "Další"
 }

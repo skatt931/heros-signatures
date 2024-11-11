@@ -12,28 +12,30 @@ const PersonDetails = () => {
   const nextID = parseInt(id) + 1;
 
   return (
-    <div className="flex h-screen flex-col gap-10 bg-black pb-10 text-center md:h-auto">
+    <div className="flex flex-col gap-10 bg-gradient-to-b from-black to-cyan-950 pb-10 text-center md:h-auto md:px-20">
       <h1 className="text-white">{t(`person${id}.name`)}</h1>
       <div className="flex justify-center">
         <img src={person.image} alt="" className="aspect-video max-h-96" />
       </div>
-      <p className="text-stone-300">{t(`person${id}.bio`)}</p>
+      <p className="p-5 text-lg text-white md:border md:border-white md:p-10">
+        {t(`person${id}.bio`)}
+      </p>
       <div className="col-span-1 grid grid-cols-subgrid px-3">
         <Link
           className="btn btn-lg col-start-1"
-          to={`/${lang}/person/${prevID}`}
+          to={`/${lang}/${prevID}`}
           // @ts-ignore
           disabled={id === "0"}
         >
-          Попередній
+          {t("prevBtn")}
         </Link>
         <Link
           className="btn btn-lg col-start-3"
-          to={`/${lang}/person/${nextID}`}
+          to={`/${lang}/${nextID}`}
           // @ts-ignore
           disabled={parseInt(id) === PEOPLE.length - 1}
         >
-          Наступний
+          {t("nextBtn")}
         </Link>
       </div>
     </div>
