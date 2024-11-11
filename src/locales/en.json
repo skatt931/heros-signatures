@@ -1,0 +1,18 @@
+{
+  "flagPage": {
+    "title": "Azov Flag",
+    "description": "Description of the Azov flag in English..."
+  },
+  "title": "Signatures on the flag",
+  "person0": {
+    "name": "Taras Shevchenko",
+    "bio": "Heroic flag of Azov from Taras Shevchenko in English...",
+    "shortInfo": "Heroic flag of Azov from Taras Shevchenko in English..."
+  },
+  "person1": {
+    "name": "Georgiy Kirpa",
+    "bio": "Full biography of Hero B in English...",
+    "shortInfo": "Short biography of Hero B in English..."
+  },
+  "moreInfo": "Bohdan Frojka"
+}

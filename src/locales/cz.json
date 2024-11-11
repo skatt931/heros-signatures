@@ -1,0 +1,18 @@
+{
+  "flagPage": {
+    "title": "Vlajka Azovu",
+    "description": "Popis vlajky Azovu v češtině..."
+  },
+  "title": "Podpisy na vlajce",
+  "person0": {
+    "name": "Taras Ševčenko",
+    "bio": "Hrdinský prapor Azovu od Tarase Ševčenka v češtině...",
+    "shortInfo": "Hrdinský prapor Azovu od Tarase Ševčenka v češtině..."
+  },
+  "person1": {
+    "name": "Georgij Kirpa",
+    "bio": "Celý životopis Osoby B v češtině...",
+    "shortInfo": "Stručný životopis Osoby B v češtině..."
+  },
+  "moreInfo": "Bohdan Frojka"
+}
