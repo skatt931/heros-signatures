@@ -12,7 +12,7 @@ export default function Avatar({
   className?: string;
 }) {
   return (
-    <div>
+    <div className="transition-all animate-in md:hover:scale-110">
       <div className={`avatar ${className}`}>
         <div className="w-24 rounded-full">
           <img src={imageUrl} />
@@ -20,7 +20,9 @@ export default function Avatar({
       </div>
       <div className="flex flex-col gap-5">
         <h3 className="text-xl text-orange-500">{name}</h3>
-        <p className="text-sm">{shortDescription}</p>
+        <p className="text-sm text-white hover:text-white">
+          {shortDescription}
+        </p>
       </div>
     </div>
   );

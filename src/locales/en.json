@@ -4,51 +4,62 @@
     "description": "Description of the Azov flag in English..."
   },
   "title": "Signatures on the flag",
-  "person0": {
-    "name": "Andrii ”Spider” Ihnatiuk",
-    "bio": "Head of the Humanitarian Support Department of the 12th Special Forces Brigade “Azov”. He is a recipient of the Order for Courage, III class, and a lieutenant colonel. He liberated Mariupol in 2014, and eight years later he defended it with his comrades-in-arms again. Horunzhiy left Azovstal on May 20. He spent a year in Russian captivity: first in Olenivka, then in the Donetsk detention center.",
-    "shortInfo": "We serve our country well. And we will continue to do so for more than ten or 20 years"
-  },
-  "person1": {
-    "name": "Ilia ”Smurf” Iliashenko",
-    "bio": "Defender of Azovstal and his native Mariupol. 10 months in captivity. Retired veteran. Serviceman of the 23rd Marine Security Detachment of the State Border Guard Service. He received a concussion when a rocket hit his car, was at the Azovstal plant, and spent 10 months in Russian captivity, where he was subjected to daily abuse, torture with a stun gun, and burning of tattoos and eyebrows.",
-    "shortInfo": "Any help you give is a small success in the overall effort to win. I really want peace so that we can raise money for playgrounds, not for weapons."
-  },
-  "person2": {
-    "name": "Asan Dilaverovich “Hasan” Isenadzhiev",
-    "bio": "Originally from the city of Henichesk in the Kherson region. He is a paramedic by education. In 2016 he graduated from Genichesk Medical School. Participant of the blockade of Crimea in 2015. Participant of the ATO. He served in the Berdiansk border guard detachment and the Kramatorsk border guard detachment. In 18, he was transferred to the 23rd Detachment of the Sea Guard of the State Border Guard Service of Ukraine in Mariupol. After leaving the SBGSU, he immediately joined Azov. He participated in the defense of Mariupol.",
-    "shortInfo": " I have seen so much pain, but I will never break."
-  },
-  "person3": {
-    "name": "Viktor “Leleka” Lakhno",
-    "bio": "One of the 72 participants of the “Air Breakthrough to Azovstal”. Former prisoner of war. Participant of the ATO in 2016-2018. He is a public figure. Viktor Lakhno met the first days of the full-scale war in Berdiansk, and when the Russian occupiers entered the city, he became a partisan in his native village in Zaporizhzhia region. After escaping from the occupation, he joined the operation to de-blockade Mariupol. He was one of three soldiers who flew in a helicopter into the heart of the city surrounded by enemies. Despite being wounded, he continued to perform his combat mission and, together with his Azovstal defenders, was taken prisoner by Russia. The 25-year-old spent 13 months in captivity. He was exchanged in June 2022 - it was the last exchange of prisoners of war from Azovstal. And he returned to war again. ",
-    "shortInfo": "We were aware of what Russia was, we remembered the events of the “boilers” and we realized that it would not be as we were promised. "
-  },
-  "person4": {
-    "name": "Anton “Malibu” Kuznetsov",
-    "bio": "Joined Azov in 2019, signing a three-year contract. Kuznetsov initially served as a rifleman in the second squad of the second platoon of the third company of the second battalion. On May 20, 2022, by order of the Azov Regiment Commander, 'Redis' (Denis Prokopenko), 'Malibu' left the territory of the Azovstal plant and surrendered.",
-    "shortInfo": ""
-  },
-  "person5": {
-    "name": "Yevhen “Chudik” Chudnetsov",
-    "bio": "Chief Medical Officer of the 12th Brigade. He was twice in captivity. Yevhen “Chudik” Chudnetsov was born in Makiivka. Senior sergeant of the Azov Brigade, defender of Mariupol, hero of Azovstal. In total, he spent about four years in Russian captivity. He was released on May 6, 2023. Now he is back at the front.",
-    "shortInfo": ""
-  },
-  "person6": {
-    "name": "Valeria (Karpylenko) Subotina “Nava”",
-    "bio": "Valeriia is a poet originally from Mariupol, joined the Azov regiment's press service in 2015 and later served as a press officer in the Donetsk border guard detachment. Valeria Karpylenko (Subotina) was taken prisoner during the Ukrainian military's withdrawal from Azovstal on May 16, 2022, and returned to Ukraine as part of a large prisoner exchange.",
-    "shortInfo": "There are a lot of stories now when men or girls, soldiers, and families die here. And then a few days later someone else dies. It's like they are following each other."
-  },
-  "person7": {
-    "name": "Dmytro “Diplomat” Andriushchenko",
-    "bio": "He has been at war since 2014. Dmytro Andriushchenko is a native of Mariupol, he has been at the front since 2014 as part of the Azov Regiment. “Diplomat was released from captivity in September 2022. ",
-    "shortInfo": "We are a shield for Europe. They have no right to forget about us. The whole world must unite to punish terrorists"
-  },
-  "person8": {
-    "name": "Sviatoslav Khorobryi “The Brave”",
-    "bio": " In 2015 and 2016, he traveled to Chongar with the National Corps to participate in the blockade of Crimea. In 2020, he signed a contract and became a member of the Azov Regiment. A defender of Mariupol and the Azovstal plant, he spent a year in Russian captivity and did not hesitate to return to serve in the artillery of the Azov Brigade. Today, he is the deputy commander of the brigade artillery group of the 12th Azov Special Forces Brigade of the National Guard of Ukraine.",
-    "shortInfo": "We survived, and most of us remained almost intact after Mariupol. Now we are free. And it is our sacred duty (to fight) to our fallen comrades and to another 700 guys who are in Russian captivity."
-  },
+  "heroes": [
+    {
+      "id": 0,
+      "name": "Andrii ”Spider” Ihnatiuk",
+      "bio": "Head of the Humanitarian Support Department of the 12th Special Forces Brigade “Azov”. He is a recipient of the Order for Courage, III class, and a lieutenant colonel. He liberated Mariupol in 2014, and eight years later he defended it with his comrades-in-arms again. Horunzhiy left Azovstal on May 20. He spent a year in Russian captivity: first in Olenivka, then in the Donetsk detention center.",
+      "shortInfo": "We serve our country well. And we will continue to do so for more than ten or 20 years"
+    },
+    {
+      "id": 1,
+      "name": "Ilia ”Smurf” Iliashenko",
+      "bio": "Defender of Azovstal and his native Mariupol. 10 months in captivity. Retired veteran. Serviceman of the 23rd Marine Security Detachment of the State Border Guard Service. He received a concussion when a rocket hit his car, was at the Azovstal plant, and spent 10 months in Russian captivity, where he was subjected to daily abuse, torture with a stun gun, and burning of tattoos and eyebrows.",
+      "shortInfo": "Any help you give is a small success in the overall effort to win. I really want peace so that we can raise money for playgrounds, not for weapons."
+    },
+    {
+      "id": 2,
+      "name": "Asan Dilaverovich “Hasan” Isenadzhiev",
+      "bio": "Originally from the city of Henichesk in the Kherson region. He is a paramedic by education. In 2016 he graduated from Genichesk Medical School. Participant of the blockade of Crimea in 2015. Participant of the ATO. He served in the Berdiansk border guard detachment and the Kramatorsk border guard detachment. In 18, he was transferred to the 23rd Detachment of the Sea Guard of the State Border Guard Service of Ukraine in Mariupol. After leaving the SBGSU, he immediately joined Azov. He participated in the defense of Mariupol.",
+      "shortInfo": " I have seen so much pain, but I will never break."
+    },
+    {
+      "id": 3,
+      "name": "Viktor “Leleka” Lakhno",
+      "bio": "One of the 72 participants of the “Air Breakthrough to Azovstal”. Former prisoner of war. Participant of the ATO in 2016-2018. He is a public figure. Viktor Lakhno met the first days of the full-scale war in Berdiansk, and when the Russian occupiers entered the city, he became a partisan in his native village in Zaporizhzhia region. After escaping from the occupation, he joined the operation to de-blockade Mariupol. He was one of three soldiers who flew in a helicopter into the heart of the city surrounded by enemies. Despite being wounded, he continued to perform his combat mission and, together with his Azovstal defenders, was taken prisoner by Russia. The 25-year-old spent 13 months in captivity. He was exchanged in June 2022 - it was the last exchange of prisoners of war from Azovstal. And he returned to war again. ",
+      "shortInfo": "We were aware of what Russia was, we remembered the events of the “boilers” and we realized that it would not be as we were promised. "
+    },
+    {
+      "id": 4,
+      "name": "Anton “Malibu” Kuznetsov",
+      "bio": "Joined Azov in 2019, signing a three-year contract. Kuznetsov initially served as a rifleman in the second squad of the second platoon of the third company of the second battalion. On May 20, 2022, by order of the Azov Regiment Commander, 'Redis' (Denis Prokopenko), 'Malibu' left the territory of the Azovstal plant and surrendered.",
+      "shortInfo": ""
+    },
+    {
+      "id": 5,
+      "name": "Yevhen “Chudik” Chudnetsov",
+      "bio": "Chief Medical Officer of the 12th Brigade. He was twice in captivity. Yevhen “Chudik” Chudnetsov was born in Makiivka. Senior sergeant of the Azov Brigade, defender of Mariupol, hero of Azovstal. In total, he spent about four years in Russian captivity. He was released on May 6, 2023. Now he is back at the front.",
+      "shortInfo": ""
+    },
+    {
+      "id": 6,
+      "name": "Valeria (Karpylenko) Subotina “Nava”",
+      "bio": "Valeriia is a poet originally from Mariupol, joined the Azov regiment's press service in 2015 and later served as a press officer in the Donetsk border guard detachment. Valeria Karpylenko (Subotina) was taken prisoner during the Ukrainian military's withdrawal from Azovstal on May 16, 2022, and returned to Ukraine as part of a large prisoner exchange.",
+      "shortInfo": "There are a lot of stories now when men or girls, soldiers, and families die here. And then a few days later someone else dies. It's like they are following each other."
+    },
+    {
+      "id": 7,
+      "name": "Dmytro “Diplomat” Andriushchenko",
+      "bio": "He has been at war since 2014. Dmytro Andriushchenko is a native of Mariupol, he has been at the front since 2014 as part of the Azov Regiment. “Diplomat was released from captivity in September 2022. ",
+      "shortInfo": "We are a shield for Europe. They have no right to forget about us. The whole world must unite to punish terrorists"
+    },
+    {
+      "id": 8,
+      "name": "Sviatoslav Khorobryi “The Brave”",
+      "bio": " In 2015 and 2016, he traveled to Chongar with the National Corps to participate in the blockade of Crimea. In 2020, he signed a contract and became a member of the Azov Regiment. A defender of Mariupol and the Azovstal plant, he spent a year in Russian captivity and did not hesitate to return to serve in the artillery of the Azov Brigade. Today, he is the deputy commander of the brigade artillery group of the 12th Azov Special Forces Brigade of the National Guard of Ukraine.",
+      "shortInfo": "We survived, and most of us remained almost intact after Mariupol. Now we are free. And it is our sacred duty (to fight) to our fallen comrades and to another 700 guys who are in Russian captivity."
+    }
+  ],
   "moreInfo": "Bohdan Frojka",
   "prevBtn": "Previous",
   "nextBtn": "Next"

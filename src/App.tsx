@@ -10,6 +10,7 @@ import PersonDetails from "./PersonDetails";
 import { useTranslation } from "react-i18next";
 import React from "react";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 const LanguageWrapper = ({ children }: { children: any }) => {
   const { i18n } = useTranslation();
@@ -41,6 +42,7 @@ function App() {
             <LanguageWrapper>
               <Header absolute />
               <FlagPage />
+              <Footer />
             </LanguageWrapper>
           }
         />
@@ -50,6 +52,7 @@ function App() {
             <LanguageWrapper>
               <Header />
               <PersonDetails />
+              <Footer isBlue />
             </LanguageWrapper>
           }
         />
