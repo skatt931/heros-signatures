@@ -25,11 +25,14 @@ const FlagPage = () => {
               className="aspect-video w-full"
             />
           </div>
-          <div className="grid gap-7 p-5 md:gap-10">
-            <p className="text-justify text-white hover:text-white">
-              {t("flagPage.description")}
-            </p>
-            <div className="grid grid-cols-1 gap-10 md:grid-cols-4">
+          <div className="grid gap-9 p-5 md:gap-16 md:px-20">
+            <div className="grid gap-5">
+              <h3 className="text-xl md:text-3xl">Якийсь текст</h3>
+              <p className="justify-self-center text-white hover:text-white md:w-3/5 md:text-xl">
+                {t("flagPage.description")}
+              </p>
+            </div>
+            <div className="grid grid-cols-1 gap-10 md:grid-cols-3">
               {heroes.map((signature, index) => (
                 <Link to={`/${lang}/${index}`} key={index}>
                   <Avatar
