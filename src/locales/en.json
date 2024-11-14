@@ -1,14 +1,15 @@
 {
   "flagPage": {
     "title": "Azov Flag",
-    "description": "Description of the Azov flag in English..."
+    "header": "НЕМАЄ ПЕРЕКЛАДУ І ТЕКСТУ!",
+    "description": "НЕМАЄ ПЕРЕКЛАДУ І ТЕКСТУ!"
   },
   "title": "Signatures on the flag",
   "heroes": [
     {
       "id": 0,
       "name": "Andrii ”Spider” Ihnatiuk",
-      "bio": "Head of the Humanitarian Support Department of the 12th Special Forces Brigade “Azov”. He is a recipient of the Order for Courage, III class, and a lieutenant colonel. He liberated Mariupol in 2014, and eight years later he defended it with his comrades-in-arms again. Horunzhiy left Azovstal on May 20. He spent a year in Russian captivity: first in Olenivka, then in the Donetsk detention center.",
+      "bio": "Lieutenant colonel and the Head of the Humanitarian Support Department of the 12th Special Forces Brigade “Azov”. He is a recipient of the Order for Courage, III class. He liberated Mariupol in 2014, and eight years later he defended it with his comrades-in-arms again. He left Azovstal on May 20. He spent a year in Russian captivity: first in Olenivka, then in the Donetsk detention center.",
       "shortInfo": "We serve our country well. And we will continue to do so for more than ten or 20 years"
     },
     {
@@ -20,7 +21,7 @@
     {
       "id": 2,
       "name": "Asan Dilaverovich “Hasan” Isenadzhiev",
-      "bio": "Originally from the city of Henichesk in the Kherson region. He is a paramedic by education. In 2016 he graduated from Genichesk Medical School. Participant of the blockade of Crimea in 2015. Participant of the ATO. He served in the Berdiansk border guard detachment and the Kramatorsk border guard detachment. In 18, he was transferred to the 23rd Detachment of the Sea Guard of the State Border Guard Service of Ukraine in Mariupol. After leaving the SBGSU, he immediately joined Azov. He participated in the defense of Mariupol.",
+      "bio": "Originally from the city of Henichesk in the Kherson region. He is a paramedic by education. Participant of the blockade of Crimea in 2015. Participant of the ATO. In 2016 he graduated from Genichesk Medical School. He served in the Berdiansk border guard detachment and the Kramatorsk border guard detachment. In 2018, he was transferred to the 23rd Detachment of the Sea Guard of the State Border Guard Service of Ukraine in Mariupol. After leaving the SBGSU, he immediately joined Azov. He participated in the defense of Mariupol.",
       "shortInfo": " I have seen so much pain, but I will never break."
     },
     {
@@ -58,9 +59,52 @@
       "name": "Sviatoslav Khorobryi “The Brave”",
       "bio": " In 2015 and 2016, he traveled to Chongar with the National Corps to participate in the blockade of Crimea. In 2020, he signed a contract and became a member of the Azov Regiment. A defender of Mariupol and the Azovstal plant, he spent a year in Russian captivity and did not hesitate to return to serve in the artillery of the Azov Brigade. Today, he is the deputy commander of the brigade artillery group of the 12th Azov Special Forces Brigade of the National Guard of Ukraine.",
       "shortInfo": "We survived, and most of us remained almost intact after Mariupol. Now we are free. And it is our sacred duty (to fight) to our fallen comrades and to another 700 guys who are in Russian captivity."
+    },
+    {
+      "id": 9,
+      "name": "Maksym “Prague“ Dvorak",
+      "bio": "Commander of the mortar battery of the 6th Battalion of the 12th Special Forces Brigade “Azov”.",
+      "shortInfo": ""
+    },
+    {
+      "id": 10,
+      "name": "“Ranger”",
+      "bio": "A machine gunner from Mariupol, Ranger proved himself quickly and became a platoon commander. He has dozens of successful operations to his credit, including successfully withdrawing his forces from encirclement and killing enemies.",
+      "shortInfo": ""
+    },
+    {
+      "id": 11,
+      "name": "Dmytro ”Boomer”",
+      "bio": "Artilleryman of the Azov Brigade. He has been in the army since he was 18. The man was one of the defenders of Mariupol. Azov soldiers, along with other military personnel, held the defense in the besieged city for 82 days. Eventually, Dmytro, along with other Mariupol defenders, was taken prisoner. After his release and two months of rehabilitation, he returned to defend the country.",
+      "shortInfo": "We were very much charged up to fight, ready to take them (the Russians) on, ready to fight them to the last."
+    },
+    {
+      "id": 12,
+      "name": "Cyrus",
+      "bio": "A fighter with the 12th Azov Special Forces Brigade who was held captive in Olenivka.",
+      "shortInfo": ""
+    },
+    {
+      "id": 13,
+      "name": "Dmytro “Orest” Kozatskyi",
+      "bio": "A Ukrainian photographer, soldier, senior soldier, fighter of the Azov Regiment of the National Guard of Ukraine. His photo “Light Will Prevail” became one of the most legendary photos of the war. Together with other defenders of Mariupol, he was held in Russian captivity and released.",
+      "shortInfo": "Azovstal is the place of my death and my life."
+    },
+    {
+      "id": 14,
+      "name": "Andrii “Troll”",
+      "bio": "A fighter with the Azov Brigade. One of the defenders of Mariupol, who was seriously wounded in the head during the fighting. Now he has recovered and is back in action.s.",
+      "shortInfo": "It was just another ordinary day when you wake up in the morning and think - oh, I'm alive! Good!"
+    },
+    {
+      "id": 15,
+      "name": "Vladyslav “Wikipedia” Zhaivoronok",
+      "bio": "A fighter with the Azov regiment, a drone operator, a platoon medic, and one of the defenders of Mariupol and the Azovstal plant.",
+      "shortInfo": "These bastards (Russians) will climb further if they are not stopped."
     }
   ],
   "moreInfo": "Bohdan Frojka",
   "prevBtn": "Previous",
-  "nextBtn": "Next"
+  "nextBtn": "Next",
+  "footer": "Support the heroes of Ukraine"
 }

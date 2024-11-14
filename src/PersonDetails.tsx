@@ -2,6 +2,7 @@ import { useTranslation } from "react-i18next";
 import { Link, useLocation, useParams } from "react-router-dom";
 import { useEffect } from "react";
 import UA_TRANSLATIONS from "@/locales/ua.json";
+import { BACKUP_IMAGE_URL } from "./constants";
 
 const PersonDetails = () => {
   const { id = "1", lang } = useParams();
@@ -23,7 +24,7 @@ const PersonDetails = () => {
       <h1 className="px-3 text-white">{t(`heroes.${id}.name`)}</h1>
       <div className="flex justify-center">
         <img
-          src={person.image}
+          src={person?.image || BACKUP_IMAGE_URL}
           alt={t(`heroes.${id}.name`)}
           className="aspect-video max-h-96 object-cover"
         />

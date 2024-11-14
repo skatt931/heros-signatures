@@ -20,14 +20,14 @@ const FlagPage = () => {
         <div>
           <div className="flex justify-center">
             <img
-              src="./azov-flag.jpeg"
+              src="./azov-flag.webp"
               alt="azov image"
               className="aspect-video w-full"
             />
           </div>
           <div className="grid gap-9 p-5 md:gap-16 md:px-20">
             <div className="grid gap-5">
-              <h3 className="text-xl md:text-3xl">Якийсь текст</h3>
+              <h3 className="text-xl md:text-3xl">{t("flagPage.header")}</h3>
               <p className="justify-self-center text-white hover:text-white md:w-3/5 md:text-xl">
                 {t("flagPage.description")}
               </p>
@@ -39,7 +39,7 @@ const FlagPage = () => {
                     className="justify-center"
                     name={t(`heroes.${index}.name`)}
                     shortDescription={t(`heroes.${index}.shortInfo`)}
-                    imageUrl={signature.image}
+                    imageUrl={signature?.image}
                   />
                 </Link>
               ))}

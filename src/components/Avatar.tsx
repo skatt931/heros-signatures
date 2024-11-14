@@ -1,12 +1,12 @@
-import React from "react";
+import { BACKUP_IMAGE_URL } from "@/constants";
 
 export default function Avatar({
-  imageUrl,
+  imageUrl = BACKUP_IMAGE_URL,
   name,
   shortDescription,
   className,
 }: {
-  imageUrl: string;
+  imageUrl?: string;
   name: string;
   shortDescription: string;
   className?: string;
